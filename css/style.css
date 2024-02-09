@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 200px;
+    background-color: palevioletred;
+    text-align: center;
+}
+.content{
+    height: 600px;
+    background-color: azure;
+    display: flex;
+
+
+}
+.content_left{
+    width: 25%;
+    background-color: tomato;
+    height: 100%;
+
+}
+.left_top{
+    height: 50%;
+    background-color: navy;
+
+}
+.left_bottom{
+    height: 50%;
+    background-color: rosybrown;
+
+}
+.content_middel{
+    width: 50%;
+    background-color: blue;
+    height: 100%;
+
+}
+.content_right{
+    width: 25%;
+    background-color: teal;
+    height: 100%;
+
+
+}
+.footer{
+    height: 100px;
+    background-color: darkorange;
+    text-align: center;
+
+}
